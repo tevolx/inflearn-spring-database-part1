@@ -1,1 +1,2 @@
-# inflearn-spring-database-part1
+# [Inflearn] Spring DB - Part1
+[인프런] 스프링 DB 1편 - 데이터 접근 핵심 원리
